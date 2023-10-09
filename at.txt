@@ -1,4 +1,6 @@
 Hello
 How are you?
 Hope you are doing well
+Totally differents
 Another changes to make the conflicts
+
